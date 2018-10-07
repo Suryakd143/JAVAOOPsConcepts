@@ -23,7 +23,7 @@ public class MultipleInheritance {
 /**
  * PARENT CLASS 2
  */
-class MultipleInheritance1{
+class MultipleInheritanceTest {
     public void parentClassMethod(){
         System.out.println("This is Parent Class 2 Method.");
     }
@@ -35,7 +35,7 @@ class MultipleInheritance1{
  */
 
 /*
-class ChildClass extends ParentClass1, ParentClass2{
+class ChildClass extends MultipleInheritance, MultipleInheritanceTest{
     public void childClassMethod(){
         System.out.println("This is Child Class Method.");
     }

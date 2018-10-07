@@ -7,7 +7,7 @@ package polymorphismConcepts;
 /**
  * When you call an overloading method during compile time is known as Compile Time Polymorphism.
  * Method overloading occur in same class.
- * Method name should be same but parameter should be different in Method Overloading.
+ * Method Name should be same but parameter should be different in Method Overloading.
  * No need to create reference.
  * By changing return type method overloading is not possible.
  */

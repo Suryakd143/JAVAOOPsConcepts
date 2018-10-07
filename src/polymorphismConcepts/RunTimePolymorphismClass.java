@@ -17,7 +17,7 @@ import javafx.scene.Parent;
  * <p>
  * -->In below example "action" method is implemented in both Parent and Child class.
  * <p>
- * --> When Child class and Parent class having the same method name it is known as "Method Overriding".
+ * --> When Child class and Parent class having the same method Name it is known as "Method Overriding".
  * <p>
  * --> Object creation done using reference of Parent Class to Child class.
  */
