@@ -8,7 +8,7 @@ abstract public class AbstractClass {
       * Abstract Class may or may not contain abstract Methods.
       * If All Method body are defined it is known as "Concrete Class".
       * Abstract Class never instantiated.(Object not created) because an object don't have abstract methods
-      * and JVM cannot allocate memory of the abstract.
+      * and JVM cannot allocate memory of the abstract method.
       */
 
      //Abstract Method

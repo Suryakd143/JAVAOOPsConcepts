@@ -6,8 +6,8 @@ package keywordConcepts;
 public class FinalKeyword {
     /**
      * You can declare Final to --> (1) Variable (Data Members)
-     *                              (2) Method
-     *                              (3) Class
+     * (2) Method
+     * (3) Class
      * If you assign a variable as final then the value of the variable cannot be changed.
      * If you use final variable inside class and not assigning value then you must have to assign value in class constructor.
      * Below "finalString" is a variable which is declare as final and no value is assigned to it.

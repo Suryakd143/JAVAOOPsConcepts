@@ -17,7 +17,7 @@ import javafx.scene.Parent;
  * <p>
  * -->In below example "action" method is implemented in both Parent and Child class.
  * <p>
- * --> When Child class and Parent class having the same method Name it is known as "Method Overriding".
+ * --> When Child class and Parent class having the same method Name with same argument it is known as "Method Overriding".
  * <p>
  * --> Object creation done using reference of Parent Class to Child class.
  */
@@ -41,7 +41,7 @@ class MethodOverridingTest{
     public static void main(String[] args) {
         /**
          * Here Object is created using reference of Parent Class to Child class known as Up-Casting.
-         * Below I decided to run overridden method of Child class by creating Reference of Parent Class to Child Class
+         * Below overridden method of Child class will be run by creating Reference of Parent Class to Child Class
          */
         RunTimePolymorphismClass obj = new MethodOverridingClass(); //UpCasting (Down-Casting is not allowed)
         obj.action();

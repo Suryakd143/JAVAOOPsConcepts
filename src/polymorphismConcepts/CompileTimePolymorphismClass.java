@@ -9,7 +9,7 @@ package polymorphismConcepts;
  * Method overloading occur in same class.
  * Method Name should be same but parameter should be different in Method Overloading.
  * No need to create reference.
- * By changing return type method overloading is not possible.
+ * By changing return type of method, overloading is not possible.
  */
 
 public class CompileTimePolymorphismClass {
