@@ -11,6 +11,7 @@ public class ConstructorClass {
      * Constructor doesn't have a return type.
      * Constructor is a instance method usually has the same name of class.
      * Here method "ConstructorClass" is a Constructor as the name is same as Class Name.
+     * Constructor can be private.
      *
      * @param name
      */
